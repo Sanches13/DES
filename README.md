@@ -4,7 +4,7 @@ Programs are designed to encrypt/decrypt files using the DES algorithm.
 
 Implemented 2 encryption modes: ECB and CTR
 
-### An exapmle of program working
+### An exapmle of program working (CTR mode)
 
 Original file data:
 
